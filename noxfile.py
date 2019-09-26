@@ -2,13 +2,7 @@ import os
 
 import nox
 
-source_files = (
-    "psl/",
-    "test_psl.py",
-    "build.py",
-    "setup.py",
-    "noxfile.py",
-)
+source_files = ("psl/", "test_psl.py", "build.py", "setup.py", "noxfile.py")
 
 
 @nox.session(reuse_venv=True)
@@ -54,7 +48,7 @@ def test(session):
     session.install("httpx", "pytest")
     session.install(".")
 
-    session.run("python", "-m", "pytest", "-q", "test_psl.py")
+    session.run("python", "-m", "pytest", "test_psl.py")
 
 
 @nox.session(reuse_venv=True)
