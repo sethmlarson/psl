@@ -5438,6 +5438,9 @@ perso.sn
 univ.sn
 so
 com.so
+edu.so
+gov.so
+me.so
 net.so
 org.so
 sr
