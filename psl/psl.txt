@@ -7451,9 +7451,6 @@ poivron.org
 potager.org
 sweetpepper.org
 myasustor.com
-go-vip.co
-go-vip.net
-wpcomstaging.com
 myfritz.net
 *.awdev.ca
 *.advisor.ws
