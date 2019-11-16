@@ -6315,7 +6315,6 @@ care
 career
 careers
 cars
-cartier
 casa
 case
 caseih
@@ -6472,7 +6471,6 @@ etisalat
 eurovision
 eus
 events
-everbank
 exchange
 expert
 exposed
@@ -6901,7 +6899,6 @@ photo
 photography
 photos
 physio
-piaget
 pics
 pictet
 pictures
@@ -8631,6 +8628,7 @@ sandcats.io
 logoip.de
 logoip.com
 schokokeks.net
+gov.scot
 scrysec.com
 firewall-gateway.com
 firewall-gateway.de
