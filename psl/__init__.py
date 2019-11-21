@@ -4,8 +4,8 @@ import typing
 
 import idna
 
-__version__ = "2019.11.16"
-__checksum__ = "8c8dce47f3d3281fb5c3bf7af7ac0afac23df4e5"
+__version__ = "2019.11.21"
+__checksum__ = "39796f91e257af109c7a68802239d17fa326fe8f"
 __all__ = ["PUBLIC_SUFFIX_URL", "domain_suffixes", "Suffixes", "domain_can_set_cookie"]
 
 

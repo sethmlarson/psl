@@ -6341,7 +6341,6 @@ cheap
 chintai
 christmas
 chrome
-chrysler
 church
 cipriani
 circle
@@ -6435,7 +6434,6 @@ diy
 dnp
 docs
 doctor
-dodge
 dog
 domains
 dot
@@ -6699,7 +6697,6 @@ kred
 kuokgroup
 kyoto
 lacaixa
-ladbrokes
 lamborghini
 lamer
 lancaster
@@ -6804,7 +6801,6 @@ mom
 monash
 money
 monster
-mopar
 mormon
 mortgage
 moscow
@@ -7069,7 +7065,6 @@ sport
 spot
 spreadbetting
 srl
-srt
 stada
 staples
 star
@@ -7157,7 +7152,6 @@ tushu
 tvs
 ubank
 ubs
-uconnect
 unicom
 university
 uno
@@ -7198,7 +7192,6 @@ walmart
 walter
 wang
 wanggou
-warman
 watch
 watches
 weather
