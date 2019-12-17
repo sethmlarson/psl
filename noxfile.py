@@ -38,14 +38,14 @@ def check(session):
 
 @nox.session(reuse_venv=True)
 def build(session):
-    session.install("httpx", "idna")
+    session.install("urllib3", "idna")
 
     session.run("python", "build.py")
 
 
 @nox.session(reuse_venv=True)
 def test(session):
-    session.install("httpx", "pytest")
+    session.install("urllib3", "idna", "pytest")
     session.install(".")
 
     session.run("python", "-m", "pytest", "test_psl.py")

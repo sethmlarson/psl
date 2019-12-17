@@ -6,7 +6,7 @@ import re
 import sys
 import tempfile
 
-import httpx
+import urllib3
 
 import psl
 
@@ -14,14 +14,13 @@ PACKAGE_PATH = pathlib.Path(__file__).parent / "psl" / "__init__.py"
 
 
 def main() -> int:
-    client = httpx.Client()
-    resp = client.get(psl.PUBLIC_SUFFIX_URL)
-    resp.raise_for_status()
+    http = urllib3.PoolManager()
+    resp = http.request("GET", psl.PUBLIC_SUFFIX_URL, preload_content=True)
 
     sha1 = hashlib.sha1()
     tmp = tempfile.mkstemp()[1]
     with open(tmp, "w") as f:
-        for line in "".join(resp.text).split("\n"):
+        for line in "".join(resp.data.decode("utf-8")).split("\n"):
             line = line.strip()
             if not line or (line.startswith("//") and "===" not in line):
                 continue
