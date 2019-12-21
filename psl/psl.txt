@@ -6179,6 +6179,7 @@ allstate
 ally
 alsace
 alstom
+amazon
 americanexpress
 americanfamily
 amex
@@ -7248,6 +7249,7 @@ xin
 орг
 नेट
 ストア
+アマゾン
 삼성
 商标
 商店
@@ -7271,6 +7273,7 @@ xin
 餐厅
 网络
 ком
+亚马逊
 诺基亚
 食品
 飞利浦
