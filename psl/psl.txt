@@ -189,7 +189,6 @@ vic.au
 wa.au
 act.edu.au
 catholic.edu.au
-eq.edu.au
 nsw.edu.au
 nt.edu.au
 qld.edu.au
