@@ -6801,7 +6801,6 @@ moto
 motorcycles
 mov
 movie
-movistar
 msd
 mtn
 mtr
@@ -7100,7 +7099,6 @@ tdk
 team
 tech
 technology
-telefonica
 temasek
 tennis
 teva
