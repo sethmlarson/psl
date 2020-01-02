@@ -6,6 +6,7 @@ import re
 import sys
 import tempfile
 
+import idna
 import urllib3
 
 import psl
@@ -24,6 +25,8 @@ def main() -> int:
             line = line.strip()
             if not line or (line.startswith("//") and "===" not in line):
                 continue
+            if any(ord(c) > 0x7F for c in line):
+                line = idna.encode(line, strict=True, std3_rules=True).decode()
             sha1.update(line.encode("utf-8"))
             f.write(line + "\n")
 
@@ -33,18 +36,18 @@ def main() -> int:
         return 1
 
     print("Updating psl.txt")
-    os.rename(tmp, psl.PUBLIC_SUFFIX_PATH)
+    os.rename(tmp, psl._PUBLIC_SUFFIX_PATH)
 
     print("Updating package metadata")
     lines = []
-    version = datetime.date.today().strftime("%Y.%m.%d")
+    today = datetime.date.today()
 
     with open(PACKAGE_PATH, "r") as f:
         for line in f:
             if line.startswith("__version__"):
                 line = re.sub(
                     r"__version__\s*=\s*['\"][\d.]+['\"]",
-                    f'__version__ = "{version}"',
+                    f'__version__ = "{today.year}.{today.month}.{today.day}"',
                     line,
                 )
             elif line.startswith("__checksum__"):
