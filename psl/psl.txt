@@ -7499,6 +7499,7 @@ c.la
 certmgr.org
 xenapponazure.com
 discourse.group
+discourse.team
 virtueeldomein.nl
 cleverapps.io
 *.lcl.dev
@@ -8055,6 +8056,7 @@ vladikavkaz.su
 vladimir.su
 vologda.su
 channelsdvr.net
+u.channelsdvr.net
 fastly-terrarium.com
 fastlylb.net
 map.fastlylb.net
@@ -8609,6 +8611,7 @@ chirurgiens-dentistes-en-france.fr
 byen.site
 pubtls.org
 qualifioapp.com
+qbuser.com
 instantcloud.cn
 ras.ru
 qa2.com
@@ -8654,6 +8657,7 @@ firewall-gateway.net
 my-firewall.org
 myfirewall.org
 spdns.org
+senseering.net
 biz.ua
 co.ua
 pp.ua
@@ -8781,6 +8785,11 @@ wedeploy.me
 wedeploy.sh
 remotewd.com
 wmflabs.org
+myforum.community
+community-pro.de
+diskussionsbereich.de
+community-pro.net
+meinforum.net
 half.host
 xnbay.com
 u2.xnbay.com
