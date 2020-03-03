@@ -8783,6 +8783,8 @@ ltd.hk
 inc.hk
 virtualuser.de
 virtual-user.de
+urown.cloud
+dnsupdate.info
 lib.de.us
 2038.io
 router.management
@@ -8828,6 +8830,5 @@ now.sh
 bss.design
 basicserver.io
 virtualserver.io
-site.builder.nu
 enterprisecloud.nu
 // ===END PRIVATE DOMAINS===
