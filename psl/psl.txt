@@ -576,9 +576,10 @@ gouv.ci
 *.ck
 !www.ck
 cl
-gov.cl
-gob.cl
+aprendemas.cl
 co.cl
+gob.cl
+gov.cl
 mil.cl
 cm
 co.cm
