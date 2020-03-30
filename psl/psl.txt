@@ -6816,7 +6816,6 @@ mtn
 mtr
 mutual
 nab
-nadex
 nagoya
 nationwide
 natura
@@ -8799,6 +8798,8 @@ wedeploy.me
 wedeploy.sh
 remotewd.com
 wmflabs.org
+toolforge.org
+wmcloud.org
 myforum.community
 community-pro.de
 diskussionsbereich.de
