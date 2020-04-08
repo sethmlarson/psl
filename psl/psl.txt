@@ -8300,6 +8300,7 @@ to.leg.br
 pixolino.com
 ipifony.net
 mein-iserv.de
+schulserver.de
 test-iserv.de
 iserv.dev
 iobb.net
