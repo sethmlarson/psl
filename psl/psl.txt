@@ -167,6 +167,7 @@ ac.at
 co.at
 gv.at
 or.at
+sth.ac.at
 au
 com.au
 net.au
@@ -7568,6 +7569,7 @@ static-access.net
 realm.cz
 *.cryptonomic.net
 cupcake.is
+curv.dev
 *.customer-oci.com
 *.oci.customer-oci.com
 *.ocp.customer-oci.com
@@ -7587,6 +7589,7 @@ co.dk
 firm.dk
 reg.dk
 store.dk
+dyndns.dappnode.io
 *.dapps.earth
 *.bzz.dapps.earth
 builtwithdark.com
@@ -7989,6 +7992,7 @@ twmail.net
 twmail.org
 mymailer.com.tw
 url.tw
+onfabrica.com
 apps.fbsbx.com
 ru.net
 adygeya.ru
@@ -8812,6 +8816,8 @@ remotewd.com
 wmflabs.org
 toolforge.org
 wmcloud.org
+panel.gg
+daemon.panel.gg
 myforum.community
 community-pro.de
 diskussionsbereich.de
