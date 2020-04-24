@@ -7512,6 +7512,7 @@ virtueeldomein.nl
 cleverapps.io
 *.lcl.dev
 *.stg.dev
+clic2000.net
 c66.me
 cloud66.ws
 cloud66.zone
@@ -8690,6 +8691,7 @@ pp.ua
 shiftedit.io
 myshopblocks.com
 shopitsite.com
+shopware.store
 mo-siemens.io
 1kapp.com
 appchizi.com
@@ -8851,4 +8853,5 @@ bss.design
 basicserver.io
 virtualserver.io
 enterprisecloud.nu
+mintere.site
 // ===END PRIVATE DOMAINS===
