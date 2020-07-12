@@ -32,7 +32,7 @@ def main() -> int:
 
     checksum = sha1.hexdigest()
     if psl.__checksum__ == checksum:
-        print(f"Current package has latest Public Suffix list")
+        print("Current package has latest Public Suffix list")
         return 1
 
     print("Updating psl.txt")
