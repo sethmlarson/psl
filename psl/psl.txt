@@ -359,6 +359,7 @@ aju.br
 am.br
 anani.br
 aparecida.br
+app.br
 arq.br
 art.br
 ato.br
@@ -366,6 +367,7 @@ b.br
 barueri.br
 belem.br
 bhz.br
+bib.br
 bio.br
 blog.br
 bmd.br
@@ -380,14 +382,19 @@ cnt.br
 com.br
 contagem.br
 coop.br
+coz.br
 cri.br
 cuiaba.br
 curitiba.br
 def.br
+des.br
+det.br
+dev.br
 ecn.br
 eco.br
 edu.br
 emp.br
+enf.br
 eng.br
 esp.br
 etc.br
@@ -403,6 +410,7 @@ fot.br
 foz.br
 fst.br
 g12.br
+geo.br
 ggf.br
 goiania.br
 gov.br
@@ -445,6 +453,7 @@ jor.br
 jus.br
 leg.br
 lel.br
+log.br
 londrina.br
 macapa.br
 maceio.br
@@ -477,6 +486,7 @@ qsl.br
 radio.br
 rec.br
 recife.br
+rep.br
 ribeirao.br
 rio.br
 riobranco.br
@@ -487,6 +497,7 @@ santamaria.br
 santoandre.br
 saobernardo.br
 saogonca.br
+seg.br
 sjc.br
 slg.br
 slz.br
@@ -494,6 +505,7 @@ sorocaba.br
 srv.br
 taxi.br
 tc.br
+tec.br
 teo.br
 the.br
 tmp.br
