@@ -25,3 +25,9 @@ jobs:
 
     - script: .travis/cron.sh
       stage: cron
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+
