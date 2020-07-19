@@ -7098,7 +7098,6 @@ swatch
 swiftcover
 swiss
 sydney
-symantec
 systems
 tab
 taipei
