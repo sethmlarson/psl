@@ -8942,4 +8942,6 @@ virtualserver.io
 enterprisecloud.nu
 mintere.site
 wpenginepowered.com
+impertrixcdn.com
+impertrix.com
 // ===END PRIVATE DOMAINS===
