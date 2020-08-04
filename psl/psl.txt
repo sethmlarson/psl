@@ -8317,6 +8317,7 @@ se.leg.br
 sp.leg.br
 to.leg.br
 pixolino.com
+na4u.ru
 ipifony.net
 mein-iserv.de
 schulserver.de
@@ -8421,6 +8422,8 @@ barsy.uk
 mayfirst.info
 mayfirst.org
 hb.cldmail.ru
+mcdir.ru
+vps.mcdir.ru
 miniserver.com
 memset.net
 cloud.metacentrum.cz
@@ -8645,6 +8648,10 @@ oy.lc
 pgfog.com
 pagefrontapp.com
 pagexl.com
+bar0.net
+bar1.net
+bar2.net
+rdv.to
 art.pl
 gliwice.pl
 krakow.pl
@@ -8795,6 +8802,8 @@ cust.dev.thingdust.io
 cust.disrec.thingdust.io
 cust.prod.thingdust.io
 cust.testing.thingdust.io
+*.firenet.ch
+*.svc.firenet.ch
 arvo.network
 azimuth.network
 bloxcms.com
