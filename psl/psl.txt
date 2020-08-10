@@ -7353,6 +7353,9 @@ barsy.ca
 *.compute.estate
 *.alces.network
 kasserver.com
+*.algorithmia.com
+!teams.algorithmia.com
+!test.algorithmia.com
 altervista.org
 alwaysdata.net
 cloudfront.net
@@ -8443,6 +8446,16 @@ bmoattachments.org
 net.ru
 org.ru
 pp.ru
+hostedpi.com
+customer.mythic-beasts.com
+lynx.mythic-beasts.com
+ocelot.mythic-beasts.com
+onza.mythic-beasts.com
+sphinx.mythic-beasts.com
+vs.mythic-beasts.com
+x.mythic-beasts.com
+yali.mythic-beasts.com
+cust.retrosnub.co.uk
 ui.nabu.casa
 pony.club
 of.fashion
