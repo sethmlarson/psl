@@ -8149,6 +8149,7 @@ glitch.me
 lolipop.io
 cloudapps.digital
 london.cloudapps.digital
+pymnt.uk
 homeoffice.gov.uk
 ro.im
 shop.ro
