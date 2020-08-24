@@ -7587,6 +7587,9 @@ curv.dev
 *.ocs.customer-oci.com
 cyon.link
 cyon.site
+fnwk.site
+folionetwork.site
+platform0.app
 daplie.me
 localhost.daplie.me
 dattolocal.com
@@ -8427,11 +8430,12 @@ barsy.uk
 mayfirst.info
 mayfirst.org
 hb.cldmail.ru
+mcpe.me
 mcdir.ru
 vps.mcdir.ru
 miniserver.com
 memset.net
-cloud.metacentrum.cz
+*.cloud.metacentrum.cz
 custom.metacentrum.cz
 flt.cloud.muni.cz
 usr.cloud.muni.cz
@@ -8443,6 +8447,7 @@ azurewebsites.net
 azure-mobile.net
 cloudapp.net
 csx.cc
+forte.id
 mozilla-iot.org
 bmoattachments.org
 net.ru
@@ -8649,6 +8654,7 @@ nom.vg
 static.observableusercontent.com
 cya.gg
 cloudycluster.net
+omniwe.site
 nid.io
 opensocial.site
 opencraft.hosting
