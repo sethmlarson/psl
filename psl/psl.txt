@@ -8161,6 +8161,7 @@ lab.ms
 github.io
 githubusercontent.com
 gitlab.io
+gitapp.si
 gitpage.si
 glitch.me
 lolipop.io
@@ -8990,7 +8991,9 @@ basicserver.io
 virtualserver.io
 enterprisecloud.nu
 mintere.site
+cx.ua
 wpenginepowered.com
 impertrixcdn.com
 impertrix.com
+gsj.bz
 // ===END PRIVATE DOMAINS===
