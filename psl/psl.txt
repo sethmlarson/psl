@@ -7547,6 +7547,7 @@ cloudaccess.net
 cloudcontrolled.com
 cloudcontrolapp.com
 cloudera.site
+pages.dev
 trycloudflare.com
 workers.dev
 wnext.app
