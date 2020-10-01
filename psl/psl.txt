@@ -8261,6 +8261,7 @@ googleapis.com
 googlecode.com
 pagespeedmobilizer.com
 publishproxy.com
+translate.goog
 withgoogle.com
 withyoutube.com
 graphox.us
