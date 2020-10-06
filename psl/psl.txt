@@ -8411,6 +8411,7 @@ members.linode.com
 *.nodebalancer.linode.com
 *.linodeobjects.com
 we.bs
+localzone.xyz
 loginline.app
 loginline.dev
 loginline.io
