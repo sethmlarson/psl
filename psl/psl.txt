@@ -7210,7 +7210,6 @@ weatherchannel
 webcam
 weber
 website
-wed
 wedding
 weibo
 weir
