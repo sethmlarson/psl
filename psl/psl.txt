@@ -7358,9 +7358,6 @@ barsy.ca
 *.compute.estate
 *.alces.network
 kasserver.com
-*.algorithmia.com
-!teams.algorithmia.com
-!test.algorithmia.com
 altervista.org
 alwaysdata.net
 cloudfront.net
@@ -8535,6 +8532,12 @@ co.pl
 azurewebsites.net
 azure-mobile.net
 cloudapp.net
+azurestaticapps.net
+centralus.azurestaticapps.net
+eastasia.azurestaticapps.net
+eastus2.azurestaticapps.net
+westeurope.azurestaticapps.net
+westus2.azurestaticapps.net
 csx.cc
 forte.id
 mozilla-iot.org
