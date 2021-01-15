@@ -1,5 +1,9 @@
 # psl
 
+[![Version](https://img.shields.io/pypi/v/psl)](https://pypi.org/project/psl)
+[![Downloads](https://pepy.tech/badge/psl)](https://pepy.tech/project/psl)
+![CI](https://img.shields.io/github/workflow/status/sethmlarson/psl/CI/master)
+
 Mozilla Public Suffix list as a Python package and updated daily.
 
 Install via `python -m pip install psl`

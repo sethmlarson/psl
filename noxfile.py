@@ -6,7 +6,7 @@ source_files = ("psl/", "test_psl.py", "build.py", "setup.py", "noxfile.py")
 
 
 @nox.session(reuse_venv=True)
-def lint(session):
+def format(session):
     session.install("autoflake", "black", "flake8", "isort", "seed-isort-config")
 
     session.run("autoflake", "--in-place", "--recursive", *source_files)
@@ -25,11 +25,11 @@ def lint(session):
     )
     session.run("black", "--target-version=py36", *source_files)
 
-    check(session)
+    lint(session)
 
 
 @nox.session(reuse_venv=True)
-def check(session):
+def lint(session):
     session.install("black", "flake8", "mypy")
 
     session.run("black", "--check", "--target-version=py36", *source_files)
@@ -59,7 +59,15 @@ def deploy(session):
     if os.path.isdir("dist"):
         session.run("rm", "-rf", "dist/*")
 
-    session.run("python", "setup.py", "build", "sdist")
+    session.run("python", "setup.py", "build", "sdist", "bdist_wheel")
+
+    if os.getenv("PYPI_TOKEN"):
+        username = "__token__"
+        password = os.getenv("PYPI_TOKEN")
+    else:
+        username = os.environ["PYPI_USERNAME"]
+        password = os.environ["PYPI_PASSWORD"]
+
     session.run(
         "python",
         "-m",
@@ -67,9 +75,7 @@ def deploy(session):
         "upload",
         "--skip-existing",
         "dist/*",
-        "--username",
-        os.environ["PYPI_USERNAME"],
-        "--password",
-        os.environ["PYPI_PASSWORD"],
+        f"--username={username}",
+        f"--password={password}",
         success_codes=[0, 1],
     )
