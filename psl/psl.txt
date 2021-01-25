@@ -6048,6 +6048,7 @@ xn--mgbaam7a8h
 xn--y9a3aq
 xn--54b7fta0cc
 xn--90ae
+xn--mgbcpq6gpa1a
 xn--90ais
 xn--fiqs8s
 xn--fiqz9s
@@ -6086,6 +6087,7 @@ xn--mgbtx2b
 xn--mgbayh7gpa
 xn--3e0b707e
 xn--80ao21a
+xn--q7ce6a
 xn--fzc2c9e2c
 xn--xkc2al3hye2a
 xn--mgbc0a9azcg
@@ -6130,7 +6132,13 @@ xn--nnx388a
 xn--j1amh
 xn--mgb2ddes
 xxx
-*.ye
+ye
+com.ye
+edu.ye
+gov.ye
+net.ye
+mil.ye
+org.ye
 ac.za
 agric.za
 alt.za
@@ -8891,6 +8899,7 @@ bounty-full.com
 alpha.bounty-full.com
 beta.bounty-full.com
 small-web.org
+try-snowplow.com
 stackhero-network.com
 static.land
 dev.static.land
