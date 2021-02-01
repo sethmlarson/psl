@@ -7449,6 +7449,8 @@ amsw.nl
 t3l3p0rt.net
 tele.amune.org
 apigee.io
+appspacehosted.com
+appspaceusercontent.com
 on-aptible.com
 user.aseinet.ne.jp
 gv.vc
@@ -7536,6 +7538,7 @@ cleverapps.io
 *.lcl.dev
 *.stg.dev
 clic2000.net
+clickrising.net
 c66.me
 cloud66.ws
 cloud66.zone
@@ -8470,6 +8473,8 @@ kinghost.net
 uni5.net
 knightpoint.systems
 oya.to
+kuleuven.cloud
+ezproxy.kuleuven.be
 co.krd
 edu.krd
 krellian.net
@@ -8783,6 +8788,8 @@ orsites.com
 operaunite.com
 skygearapp.com
 outsystemscloud.com
+*.webpaas.ovh.net
+*.hosting.ovh.net
 ownprovider.com
 own.pm
 *.owo.codes
@@ -8954,6 +8961,8 @@ cust.testing.thingdust.io
 arvo.network
 azimuth.network
 tlon.network
+torproject.net
+pages.torproject.net
 bloxcms.com
 townnews-staging.com
 12hp.at
