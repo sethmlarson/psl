@@ -7391,6 +7391,7 @@ us-west-1.elasticbeanstalk.com
 us-west-2.elasticbeanstalk.com
 *.elb.amazonaws.com
 *.elb.amazonaws.com.cn
+awsglobalaccelerator.com
 s3.amazonaws.com
 s3-ap-northeast-1.amazonaws.com
 s3-ap-northeast-2.amazonaws.com
@@ -8017,6 +8018,7 @@ sk.eu.org
 tr.eu.org
 uk.eu.org
 us.eu.org
+eurodir.ru
 eu-1.evennode.com
 eu-2.evennode.com
 eu-3.evennode.com
@@ -8544,7 +8546,9 @@ mayfirst.info
 mayfirst.org
 hb.cldmail.ru
 mcpe.me
+mcdir.me
 mcdir.ru
+mcpre.ru
 vps.mcdir.ru
 miniserver.com
 memset.net
@@ -8608,6 +8612,8 @@ netlify.app
 ngrok.io
 nh-serv.co.uk
 nfshost.com
+northflank.app
+code.run
 dnsking.ch
 mypi.co
 n4t.co
