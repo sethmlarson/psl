@@ -8148,6 +8148,8 @@ fly.dev
 edgeapp.net
 shw.io
 flynnhosting.net
+framer.app
+framercanvas.com
 0e.vc
 freebox-os.com
 freeboxos.com
