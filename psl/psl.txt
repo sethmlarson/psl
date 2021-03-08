@@ -7536,7 +7536,9 @@ discourse.team
 virtueeldomein.nl
 cleverapps.io
 *.lcl.dev
+*.lclstage.dev
 *.stg.dev
+*.stgstage.dev
 clic2000.net
 clickrising.net
 c66.me
@@ -8849,6 +8851,7 @@ pubtls.org
 qoto.io
 qualifioapp.com
 qbuser.com
+cloudsite.builders
 instantcloud.cn
 ras.ru
 qa2.com
@@ -8883,6 +8886,7 @@ logoip.de
 logoip.com
 schokokeks.net
 gov.scot
+service.gov.scot
 scrysec.com
 firewall-gateway.com
 firewall-gateway.de
@@ -8916,6 +8920,7 @@ alpha.bounty-full.com
 beta.bounty-full.com
 small-web.org
 try-snowplow.com
+srht.site
 stackhero-network.com
 static.land
 dev.static.land
