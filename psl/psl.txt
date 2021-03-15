@@ -7475,6 +7475,7 @@ bnr.la
 blackbaudcdn.net
 of.je
 boomla.net
+boutir.com
 boxfuse.io
 square7.ch
 bplaced.com
@@ -7486,6 +7487,7 @@ browsersafetymark.io
 uk0.bigv.io
 dh.bytemark.co.uk
 vm.bytemark.co.uk
+cafjs.com
 mycd.eu
 carrd.co
 crd.co
@@ -8848,6 +8850,8 @@ protonet.io
 chirurgiens-dentistes-en-france.fr
 byen.site
 pubtls.org
+*.pythonanywhere.com
+*.eu.pythonanywhere.com
 qoto.io
 qualifioapp.com
 qbuser.com
