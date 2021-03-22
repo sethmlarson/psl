@@ -8904,6 +8904,7 @@ myfirewall.org
 spdns.org
 seidat.net
 senseering.net
+magnet.page
 biz.ua
 co.ua
 pp.ua
