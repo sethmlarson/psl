@@ -6555,7 +6555,6 @@ frontdoor
 frontier
 ftr
 fujitsu
-fujixerox
 fun
 fund
 furniture
@@ -7353,6 +7352,7 @@ cc.ua
 inf.ua
 ltd.ua
 611.to
+*.devcdnaccesso.com
 adobeaemcloud.com
 adobeaemcloud.net
 *.dev.adobeaemcloud.com
@@ -7601,6 +7601,8 @@ realm.cz
 *.cryptonomic.net
 cupcake.is
 curv.dev
+multibaas.app
+multibaas.com
 *.customer-oci.com
 *.oci.customer-oci.com
 *.ocp.customer-oci.com
@@ -8152,6 +8154,7 @@ fly.dev
 edgeapp.net
 shw.io
 flynnhosting.net
+forgeblocks.com
 framer.app
 framercanvas.com
 0e.vc
@@ -8454,8 +8457,6 @@ jelastic.saveincloud.net
 nordeste-idc.saveincloud.net
 j.scaleforce.net
 jelastic.tsukaeru.net
-atl.jelastic.vps-host.net
-njs.jelastic.vps-host.net
 unicloud.pl
 mircloud.ru
 jelastic.regruhosting.ru
@@ -8556,6 +8557,7 @@ mcdir.me
 mcdir.ru
 mcpre.ru
 vps.mcdir.ru
+hra.health
 miniserver.com
 memset.net
 *.cloud.metacentrum.cz
@@ -8811,6 +8813,7 @@ oy.lc
 pgfog.com
 pagefrontapp.com
 pagexl.com
+*.paywhirl.com
 bar0.net
 bar1.net
 bar2.net
@@ -8908,6 +8911,8 @@ magnet.page
 biz.ua
 co.ua
 pp.ua
+shiftcrypto.dev
+shiftcrypto.io
 shiftedit.io
 myshopblocks.com
 myshopify.com
@@ -9148,4 +9153,8 @@ xn--80aaa0cvac.xn--p1acf
 xn--h1aliz.xn--p1acf
 xn--90a1af.xn--p1acf
 xn--41a.xn--p1acf
+vps-host.net
+atl.jelastic.vps-host.net
+njs.jelastic.vps-host.net
+ric.jelastic.vps-host.net
 // ===END PRIVATE DOMAINS===
