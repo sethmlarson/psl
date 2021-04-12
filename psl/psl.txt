@@ -8553,6 +8553,7 @@ barsy.uk
 mayfirst.info
 mayfirst.org
 hb.cldmail.ru
+cn.vu
 mazeplay.com
 mcpe.me
 mcdir.me
@@ -9134,7 +9135,8 @@ community-pro.net
 meinforum.net
 wpenginepowered.com
 js.wpenginepowered.com
-cn.vu
+wixsite.com
+editorx.io
 half.host
 xnbay.com
 u2.xnbay.com
