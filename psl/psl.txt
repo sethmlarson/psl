@@ -5473,8 +5473,10 @@ biz.ss
 com.ss
 edu.ss
 gov.ss
+me.ss
 net.ss
 org.ss
+sch.ss
 st
 co.st
 com.st
@@ -6681,7 +6683,6 @@ ist
 istanbul
 itau
 itv
-iveco
 jaguar
 java
 jcb
@@ -7075,7 +7076,6 @@ spa
 space
 sport
 spot
-spreadbetting
 srl
 stada
 staples
