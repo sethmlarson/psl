@@ -8183,8 +8183,10 @@ lab.ms
 cdn-edges.net
 ghost.io
 gsj.bz
-github.io
 githubusercontent.com
+github.dev
+githubpreview.dev
+github.io
 gitlab.io
 gitapp.si
 gitpage.si
@@ -8621,6 +8623,8 @@ netlify.app
 ngrok.io
 nh-serv.co.uk
 nfshost.com
+*.developer.app
+noop.app
 *.northflank.app
 *.code.run
 noticeable.news
@@ -8855,8 +8859,8 @@ protonet.io
 chirurgiens-dentistes-en-france.fr
 byen.site
 pubtls.org
-*.pythonanywhere.com
-*.eu.pythonanywhere.com
+pythonanywhere.com
+eu.pythonanywhere.com
 qoto.io
 qualifioapp.com
 qbuser.com
@@ -8948,6 +8952,7 @@ stackhero-network.com
 static.land
 dev.static.land
 sites.static.land
+storebase.store
 vps-host.net
 atl.jelastic.vps-host.net
 njs.jelastic.vps-host.net
