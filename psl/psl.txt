@@ -8131,10 +8131,11 @@ fedorapeople.org
 cloud.fedoraproject.org
 app.os.fedoraproject.org
 app.os.stg.fedoraproject.org
-conn.uk
-copro.uk
 couk.me
 ukco.me
+conn.uk
+copro.uk
+hosp.uk
 mydobiss.com
 fh-muenster.io
 filegear.me
@@ -8291,6 +8292,7 @@ blogspot.td
 blogspot.tw
 blogspot.ug
 blogspot.vn
+goupile.fr
 awsmppl.com
 xn--gnstigbestellen-zvb.de
 xn--gnstigliefern-wob.de
@@ -8806,6 +8808,8 @@ opensocial.site
 opencraft.hosting
 orsites.com
 operaunite.com
+authgear-staging.com
+authgearapps.com
 skygearapp.com
 outsystemscloud.com
 *.webpaas.ovh.net
