@@ -8154,7 +8154,7 @@ edgeapp.net
 shw.io
 flynnhosting.net
 forgeblocks.com
-*.id.forgerock.io
+id.forgerock.io
 framer.app
 framercanvas.com
 ravpage.co.il
@@ -8839,8 +8839,6 @@ gotpantheon.com
 mypep.link
 perspecta.cloud
 lk3.ru
-ra-ru.ru
-zsew.ru
 on-web.fr
 bc.platform.sh
 ent.platform.sh
