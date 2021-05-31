@@ -7461,6 +7461,7 @@ potager.org
 sweetpepper.org
 myasustor.com
 myfritz.net
+onavstack.net
 *.awdev.ca
 *.advisor.ws
 b-data.io
@@ -7473,6 +7474,7 @@ betainabox.com
 bnr.la
 blackbaudcdn.net
 of.je
+bluebite.io
 boomla.net
 boutir.com
 boxfuse.io
@@ -8157,6 +8159,7 @@ forgeblocks.com
 id.forgerock.io
 framer.app
 framercanvas.com
+*.frusky.de
 ravpage.co.il
 0e.vc
 freebox-os.com
@@ -8186,7 +8189,6 @@ cdn-edges.net
 ghost.io
 gsj.bz
 githubusercontent.com
-github.dev
 githubpreview.dev
 github.io
 gitlab.io
@@ -8475,6 +8477,7 @@ myjino.ru
 *.landing.myjino.ru
 *.spectrum.myjino.ru
 *.vps.myjino.ru
+jotelulu.cloud
 *.triton.zone
 *.cns.joyent.com
 js.org
@@ -8952,6 +8955,7 @@ small-web.org
 try-snowplow.com
 srht.site
 stackhero-network.com
+novecore.site
 static.land
 dev.static.land
 sites.static.land
