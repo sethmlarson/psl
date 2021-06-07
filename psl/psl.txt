@@ -7450,6 +7450,7 @@ tele.amune.org
 apigee.io
 appspacehosted.com
 appspaceusercontent.com
+appudo.net
 on-aptible.com
 user.aseinet.ne.jp
 gv.vc
@@ -7601,8 +7602,6 @@ realm.cz
 *.cryptonomic.net
 cupcake.is
 curv.dev
-multibaas.app
-multibaas.com
 *.customer-oci.com
 *.oci.customer-oci.com
 *.ocp.customer-oci.com
@@ -8857,6 +8856,10 @@ plesk.page
 pleskns.com
 dyn53.io
 co.bn
+postman-echo.com
+pstmn.io
+mock.pstmn.io
+httpbin.org
 xen.prgmr.com
 priv.at
 prvcy.page
@@ -8900,6 +8903,7 @@ devices.resinstaging.io
 hzc.io
 wellbeingzone.eu
 wellbeingzone.co.uk
+adimo.co.uk
 git-pages.rit.edu
 xn--90amc.xn--p1acf
 xn--j1aef.xn--p1acf
@@ -8930,6 +8934,7 @@ myfirewall.org
 spdns.org
 seidat.net
 senseering.net
+minisite.ms
 magnet.page
 biz.ua
 co.ua
