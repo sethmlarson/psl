@@ -7485,6 +7485,7 @@ bplaced.de
 square7.de
 bplaced.net
 square7.net
+shop.brendly.rs
 browsersafetymark.io
 uk0.bigv.io
 dh.bytemark.co.uk
@@ -8564,6 +8565,8 @@ mcdir.me
 mcdir.ru
 mcpre.ru
 vps.mcdir.ru
+mediatech.by
+mediatech.dev
 hra.health
 miniserver.com
 memset.net
