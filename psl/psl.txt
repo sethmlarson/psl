@@ -587,7 +587,6 @@ gouv.ci
 *.ck
 !www.ck
 cl
-aprendemas.cl
 co.cl
 gob.cl
 gov.cl
@@ -7630,6 +7629,7 @@ dyndns.dappnode.io
 *.bzz.dapps.earth
 builtwithdark.com
 edgestack.me
+ddns5.com
 debian.net
 deno.dev
 deno-staging.dev
