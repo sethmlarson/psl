@@ -5996,6 +5996,7 @@ mil.vc
 edu.vc
 ve
 arts.ve
+bib.ve
 co.ve
 com.ve
 e12.ve
@@ -6007,7 +6008,9 @@ info.ve
 int.ve
 mil.ve
 net.ve
+nom.ve
 org.ve
+rar.ve
 rec.ve
 store.ve
 tec.ve
@@ -6706,6 +6709,7 @@ kerrylogistics
 kerryproperties
 kfh
 kia
+kids
 kim
 kinder
 kindle
@@ -7468,6 +7472,7 @@ myfritz.net
 onavstack.net
 *.awdev.ca
 *.advisor.ws
+ecommerce-shop.pl
 b-data.io
 backplaneapp.io
 balena-devices.com
@@ -7546,6 +7551,8 @@ discourse.group
 discourse.team
 virtueeldomein.nl
 cleverapps.io
+clerk.app
+clerkstage.app
 *.lcl.dev
 *.lclstage.dev
 *.stg.dev
@@ -7969,6 +7976,9 @@ webredirect.org
 myddns.rocks
 blogsite.xyz
 dynv6.net
+elluciancrmadvance.com
+elluciancrmadvise.com
+elluciancrmrecruit.com
 e4.cz
 eero.online
 eero-stage.online
@@ -8333,6 +8343,7 @@ ravendb.community
 ravendb.me
 development.run
 ravendb.run
+homesklep.pl
 secaas.hk
 orx.biz
 biz.gl
