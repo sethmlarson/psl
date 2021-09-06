@@ -7569,7 +7569,7 @@ freesite.host
 cloudaccess.net
 cloudcontrolled.com
 cloudcontrolapp.com
-cloudera.site
+*.cloudera.site
 pages.dev
 trycloudflare.com
 workers.dev
@@ -7651,6 +7651,8 @@ debian.net
 deno.dev
 deno-staging.dev
 dedyn.io
+*.rss.my.id
+*.diher.solutions
 jozi.biz
 dnshome.de
 online.th
@@ -7990,8 +7992,6 @@ tuleap-partners.com
 onred.one
 staging.onred.one
 service.one
-enonic.io
-customer.enonic.io
 eu.org
 al.eu.org
 asso.eu.org
@@ -8335,6 +8335,7 @@ hs.run
 hashbang.sh
 hasura.app
 hasura-app.io
+pages.it.hs-heilbronn.de
 hepforge.org
 herokuapp.com
 herokussl.com
@@ -8548,6 +8549,7 @@ loginline.dev
 loginline.io
 loginline.services
 loginline.site
+servers.run
 lohmus.me
 krasnik.pl
 leczna.pl
@@ -8577,6 +8579,7 @@ barsy.online
 barsy.org
 barsy.pro
 barsy.pub
+barsy.ro
 barsy.shop
 barsy.site
 barsy.support
@@ -8652,7 +8655,6 @@ for.sale
 that.win
 from.work
 to.work
-nctu.me
 netlify.app
 4u.com
 ngrok.io
@@ -9003,6 +9005,7 @@ myds.me
 synology.me
 vpnplus.to
 direct.quickconnect.to
+tabitorder.co.il
 taifun-dns.de
 gda.pl
 gdansk.pl
@@ -9155,6 +9158,9 @@ community-pro.de
 diskussionsbereich.de
 community-pro.net
 meinforum.net
+affinitylottery.org.uk
+raffleentry.org.uk
+weeklylottery.org.uk
 wpenginepowered.com
 js.wpenginepowered.com
 wixsite.com
