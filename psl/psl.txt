@@ -6950,7 +6950,6 @@ pwc
 qpon
 quebec
 quest
-qvc
 racing
 radio
 raid
@@ -7099,7 +7098,6 @@ surf
 surgery
 suzuki
 swatch
-swiftcover
 swiss
 sydney
 systems
@@ -8539,6 +8537,7 @@ linkyard-cloud.ch
 members.linode.com
 *.nodebalancer.linode.com
 *.linodeobjects.com
+ip.linodeusercontent.com
 we.bs
 localzone.xyz
 loginline.app
@@ -9027,6 +9026,7 @@ cust.testing.thingdust.io
 reservd.dev.thingdust.io
 reservd.disrec.thingdust.io
 reservd.testing.thingdust.io
+tickets.io
 arvo.network
 azimuth.network
 tlon.network
@@ -9079,6 +9079,7 @@ ltd.hk
 inc.hk
 virtualuser.de
 virtual-user.de
+upli.io
 urown.cloud
 dnsupdate.info
 lib.de.us
