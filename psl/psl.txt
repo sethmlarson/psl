@@ -677,6 +677,11 @@ net.cu
 gov.cu
 inf.cu
 cv
+com.cv
+edu.cv
+int.cv
+nome.cv
+org.cv
 cw
 com.cw
 edu.cw
@@ -7448,6 +7453,7 @@ amsw.nl
 t3l3p0rt.net
 tele.amune.org
 apigee.io
+siiites.com
 appspacehosted.com
 appspaceusercontent.com
 appudo.net
@@ -7985,7 +7991,6 @@ mytuleap.com
 tuleap-partners.com
 onred.one
 staging.onred.one
-service.one
 eu.org
 al.eu.org
 asso.eu.org
@@ -8783,6 +8788,7 @@ cya.gg
 omg.lol
 cloudycluster.net
 omniwe.site
+service.one
 nid.io
 opensocial.site
 opencraft.hosting
@@ -9005,6 +9011,8 @@ vpnplus.to
 direct.quickconnect.to
 tabitorder.co.il
 taifun-dns.de
+beta.tailscale.net
+ts.net
 gda.pl
 gdansk.pl
 gdynia.pl
