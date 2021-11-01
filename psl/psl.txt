@@ -7242,7 +7242,6 @@ xn--1qqw23a
 xn--30rr7y
 xn--3bst00m
 xn--3ds443g
-xn--3oq18vl8pn36a
 xn--3pxu8k
 xn--42c2d9a
 xn--45q11c
@@ -7978,9 +7977,6 @@ webredirect.org
 myddns.rocks
 blogsite.xyz
 dynv6.net
-elluciancrmadvance.com
-elluciancrmadvise.com
-elluciancrmrecruit.com
 e4.cz
 eero.online
 eero-stage.online
