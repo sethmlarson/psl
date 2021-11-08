@@ -7527,7 +7527,6 @@ us.com
 za.bz
 za.com
 ar.com
-gb.com
 hu.com
 kr.com
 no.com
