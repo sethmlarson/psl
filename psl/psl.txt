@@ -7448,7 +7448,6 @@ s3-website.eu-central-1.amazonaws.com
 s3-website.eu-west-2.amazonaws.com
 s3-website.eu-west-3.amazonaws.com
 s3-website.us-east-2.amazonaws.com
-amsw.nl
 t3l3p0rt.net
 tele.amune.org
 apigee.io
@@ -7547,7 +7546,6 @@ certmgr.org
 cx.ua
 discourse.group
 discourse.team
-virtueeldomein.nl
 cleverapps.io
 clerk.app
 clerkstage.app
