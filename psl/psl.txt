@@ -6202,7 +6202,6 @@ ads
 adult
 aeg
 aetna
-afamilycompany
 afl
 africa
 agakhan
@@ -6475,7 +6474,6 @@ download
 drive
 dtv
 dubai
-duck
 dunlop
 dupont
 durban
@@ -6585,7 +6583,6 @@ gift
 gifts
 gives
 giving
-glade
 glass
 gle
 global
@@ -6875,7 +6872,6 @@ ntt
 nyc
 obi
 observer
-off
 office
 okinawa
 olayan
@@ -6957,7 +6953,6 @@ quebec
 quest
 racing
 radio
-raid
 read
 realestate
 realtor
@@ -7026,7 +7021,6 @@ school
 schule
 schwarz
 science
-scjohnson
 scot
 search
 seat
@@ -7478,6 +7472,16 @@ rs.ba
 *.banzai.cloud
 app.banzaicloud.io
 *.backyards.banzaicloud.io
+base.ec
+official.ec
+buyshop.jp
+fashionstore.jp
+handcrafted.jp
+kawaiishop.jp
+supersale.jp
+theshop.jp
+shopselect.net
+base.shop
 betainabox.com
 bnr.la
 bitbucket.io
@@ -8341,6 +8345,7 @@ development.run
 ravendb.run
 homesklep.pl
 secaas.hk
+hoplix.shop
 orx.biz
 biz.gl
 col.ng
@@ -8510,6 +8515,7 @@ keymachine.de
 kinghost.net
 uni5.net
 knightpoint.systems
+koobin.events
 oya.to
 kuleuven.cloud
 ezproxy.kuleuven.be
@@ -8651,6 +8657,7 @@ for.sale
 that.win
 from.work
 to.work
+cloud.nospamproxy.com
 netlify.app
 4u.com
 ngrok.io
@@ -8774,8 +8781,6 @@ sytes.net
 webhop.me
 zapto.org
 stage.nodeart.io
-nodum.co
-nodum.io
 pcloud.host
 nyc.mn
 static.observableusercontent.com
@@ -9013,7 +9018,8 @@ gdansk.pl
 gdynia.pl
 med.pl
 sopot.pl
-edugit.org
+edugit.io
+s3.teckids.org
 telebit.app
 telebit.io
 *.telebit.xyz
@@ -9074,6 +9080,7 @@ my-wan.de
 syno-ds.de
 synology-diskstation.de
 synology-ds.de
+pro.typeform.com
 uber.space
 *.uberspace.de
 hk.com
