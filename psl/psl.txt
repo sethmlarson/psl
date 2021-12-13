@@ -7988,6 +7988,7 @@ mytuleap.com
 tuleap-partners.com
 onred.one
 staging.onred.one
+eu.encoway.cloud
 eu.org
 al.eu.org
 asso.eu.org
