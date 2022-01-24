@@ -3384,11 +3384,10 @@ ind.kw
 net.kw
 org.kw
 ky
-edu.ky
-gov.ky
 com.ky
-org.ky
+edu.ky
 net.ky
+org.ky
 kz
 org.kz
 edu.kz
@@ -7592,6 +7591,7 @@ cloudns.pro
 cloudns.pw
 cloudns.us
 cnpy.gdn
+codeberg.page
 co.nl
 co.no
 webhosting.be
@@ -9019,6 +9019,7 @@ gdansk.pl
 gdynia.pl
 med.pl
 sopot.pl
+site.tb-hosting.com
 edugit.io
 s3.teckids.org
 telebit.app
