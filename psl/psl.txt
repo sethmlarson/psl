@@ -6425,7 +6425,6 @@ crown
 crs
 cruise
 cruises
-csc
 cuisinella
 cymru
 cyou
@@ -8202,6 +8201,13 @@ futuremailing.at
 *.ex.ortsinfo.at
 *.kunden.ortsinfo.at
 *.statics.cloud
+independent-commission.uk
+independent-inquest.uk
+independent-inquiry.uk
+independent-panel.uk
+independent-review.uk
+public-inquiry.uk
+royal-commission.uk
 service.gov.uk
 api.gov.uk
 gehirn.ne.jp
