@@ -7479,6 +7479,7 @@ supersale.jp
 theshop.jp
 shopselect.net
 base.shop
+*.beget.app
 betainabox.com
 bnr.la
 bitbucket.io
@@ -9149,6 +9150,7 @@ blog.vu
 dev.vu
 me.vu
 v.ua
+*.vultrobjects.com
 wafflecell.com
 idnblogger.com
 indowapblog.com
