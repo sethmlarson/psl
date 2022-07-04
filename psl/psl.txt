@@ -8294,6 +8294,7 @@ kill.jp
 kilo.jp
 kuron.jp
 littlestar.jp
+lolipopmc.jp
 lolitapunk.jp
 lomo.jp
 lovepop.jp
@@ -8483,6 +8484,8 @@ xn--hkkinen-5wa.fi
 *.moonscale.io
 moonscale.net
 iki.fi
+ibxos.it
+iliadboxos.it
 impertrixcdn.com
 impertrix.com
 smushcdn.com
@@ -8534,7 +8537,9 @@ pixolino.com
 na4u.ru
 iopsys.se
 ipifony.net
+iservschule.de
 mein-iserv.de
+schulplattform.de
 schulserver.de
 test-iserv.de
 iserv.dev
@@ -8727,6 +8732,7 @@ mediatech.dev
 hra.health
 miniserver.com
 memset.net
+messerli.app
 *.cloud.metacentrum.cz
 custom.metacentrum.cz
 flt.cloud.muni.cz
@@ -9033,9 +9039,9 @@ xn--80aaa0cvac.xn--p1acf
 xn--h1aliz.xn--p1acf
 xn--90a1af.xn--p1acf
 xn--41a.xn--p1acf
-builder.code.com
-dev-builder.code.com
-stg-builder.code.com
+*.builder.code.com
+*.dev-builder.code.com
+*.stg-builder.code.com
 sandcats.io
 logoip.de
 logoip.com
