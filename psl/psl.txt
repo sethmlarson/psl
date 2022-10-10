@@ -6369,7 +6369,6 @@ calvinklein
 cam
 camera
 camp
-cancerresearch
 canon
 capetown
 capital
@@ -7376,6 +7375,7 @@ ltd.ua
 611.to
 graphox.us
 *.devcdnaccesso.com
+*.on-acorn.io
 adobeaemcloud.com
 *.dev.adobeaemcloud.com
 hlx.live
@@ -9101,6 +9101,8 @@ readthedocs.io
 rhcloud.com
 app.render.com
 onrender.com
+firewalledreplit.co
+id.firewalledreplit.co
 repl.co
 id.repl.co
 repl.run
