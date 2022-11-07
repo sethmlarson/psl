@@ -8545,7 +8545,6 @@ hepforge.org
 herokuapp.com
 herokussl.com
 ravendb.cloud
-myravendb.com
 ravendb.community
 ravendb.me
 development.run
