@@ -9301,7 +9301,6 @@ torproject.net
 pages.torproject.net
 bloxcms.com
 townnews-staging.com
-tbits.me
 12hp.at
 2ix.at
 4lima.at
