@@ -2,8 +2,8 @@ import functools
 import pathlib
 import typing
 
-__version__ = "2023.5.8"
-__checksum__ = "76d72cafbb85dd7412b50757685c721d91c8a356"
+__version__ = "2023.6.12"
+__checksum__ = "5c35aaf6e7583a27a11d266425d198d0d92ddca6"
 __all__ = ["PUBLIC_SUFFIX_URL", "domain_suffixes", "Suffixes", "domain_can_set_cookie"]
 
 
