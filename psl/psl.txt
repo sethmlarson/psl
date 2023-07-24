@@ -8209,7 +8209,6 @@ iserv.dev
 iobb.net
 mel.cloudlets.com.au
 cloud.interhostsolutions.be
-users.scale.virtualcloud.com.br
 mycloud.by
 alp1.ae.flow.ch
 appengine.flow.ch
@@ -8233,9 +8232,7 @@ ch.trendhosting.cloud
 de.trendhosting.cloud
 jele.club
 amscompute.com
-clicketcloud.com
 dopaas.com
-hidora.com
 paas.hosted-by-previder.com
 rag-cloud.hosteur.com
 rag-cloud-ch.hosteur.com
@@ -8883,6 +8880,7 @@ myspreadshop.pl
 myspreadshop.se
 myspreadshop.co.uk
 api.stdlib.com
+storipress.app
 storj.farm
 utwente.io
 soc.srcf.net
