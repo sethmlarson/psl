@@ -5945,7 +5945,6 @@ citadel
 citi
 citic
 city
-cityeats
 claims
 cleaning
 click
@@ -6113,7 +6112,6 @@ free
 fresenius
 frl
 frogans
-frontdoor
 frontier
 ftr
 fujitsu
