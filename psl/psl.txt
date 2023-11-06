@@ -6263,7 +6263,6 @@ kfh
 kia
 kids
 kim
-kinder
 kindle
 kitchen
 kiwi
@@ -6527,7 +6526,6 @@ ricoh
 ril
 rio
 rip
-rocher
 rocks
 rodeo
 rogers
@@ -8900,6 +8898,7 @@ jp.ngrok.io
 sa.ngrok.io
 us.ngrok.io
 ngrok.pizza
+torun.pl
 nh-serv.co.uk
 nfshost.com
 *.developer.app
