@@ -6010,6 +6010,7 @@ delta
 democrat
 dental
 dentist
+desi
 design
 dev
 dhl
@@ -6723,7 +6724,6 @@ viva
 vivo
 vlaanderen
 vodka
-volkswagen
 volvo
 vote
 voting
@@ -6741,6 +6741,7 @@ weatherchannel
 webcam
 weber
 website
+wed
 wedding
 weibo
 weir
