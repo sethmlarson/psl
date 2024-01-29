@@ -5826,7 +5826,6 @@ azure
 baby
 baidu
 banamex
-bananarepublic
 band
 bank
 bar
@@ -6420,7 +6419,6 @@ office
 okinawa
 olayan
 olayangroup
-oldnavy
 ollo
 omega
 one
@@ -6885,8 +6883,10 @@ graphox.us
 activetrail.biz
 adobeaemcloud.com
 *.dev.adobeaemcloud.com
+aem.live
 hlx.live
 adobeaemcloud.net
+aem.page
 hlx.page
 hlx3.page
 adobeio-static.net
@@ -8166,7 +8166,6 @@ twmail.org
 mymailer.com.tw
 url.tw
 onfabrica.com
-apps.fbsbx.com
 ru.net
 adygeya.ru
 bashkiria.ru
@@ -8833,6 +8832,8 @@ hra.health
 miniserver.com
 memset.net
 messerli.app
+atmeta.com
+apps.fbsbx.com
 *.cloud.metacentrum.cz
 custom.metacentrum.cz
 flt.cloud.muni.cz
@@ -9214,6 +9215,7 @@ sakura.tv
 *.builder.code.com
 *.dev-builder.code.com
 *.stg-builder.code.com
+*.001.test.code-builder-stg.platform.salesforce.com
 sandcats.io
 logoip.de
 logoip.com
