@@ -5957,7 +5957,6 @@ codes
 coffee
 college
 cologne
-comcast
 commbank
 community
 company
@@ -6761,7 +6760,6 @@ wtc
 wtf
 xbox
 xerox
-xfinity
 xihuan
 xin
 xn--11b4c3d
@@ -7745,6 +7743,10 @@ curv.dev
 *.oci.customer-oci.com
 *.ocp.customer-oci.com
 *.ocs.customer-oci.com
+cyclic.app
+cyclic.cloud
+cyclic-app.com
+cyclic.co.in
 cyon.link
 cyon.site
 fnwk.site
