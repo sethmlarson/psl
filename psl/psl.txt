@@ -7735,6 +7735,7 @@ dynamic-dns.info
 feste-ip.net
 knx-server.net
 static-access.net
+*.cprapid.com
 realm.cz
 *.cryptonomic.net
 cupcake.is
