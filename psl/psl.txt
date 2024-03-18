@@ -6161,7 +6161,6 @@ green
 gripe
 grocery
 group
-guardian
 gucci
 guge
 guide
