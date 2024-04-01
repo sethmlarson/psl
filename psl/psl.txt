@@ -8483,6 +8483,7 @@ weblike.jp
 whitesnow.jp
 zombie.jp
 heteml.net
+graphic.design
 cloudapps.digital
 london.cloudapps.digital
 pymnt.uk
@@ -8677,6 +8678,7 @@ pixolino.com
 na4u.ru
 iopsys.se
 ipifony.net
+ir.md
 iservschule.de
 mein-iserv.de
 schulplattform.de
@@ -8880,7 +8882,7 @@ meteorapp.com
 eu.meteorapp.com
 co.pl
 *.azurecontainer.io
-*.cloudapp.azure.com
+cloudapp.azure.com
 azure-api.net
 azureedge.net
 azurefd.net
@@ -8946,6 +8948,7 @@ ngrok.pro
 torun.pl
 nh-serv.co.uk
 nfshost.com
+ipfs.nftstorage.link
 *.developer.app
 noop.app
 *.northflank.app
