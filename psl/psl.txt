@@ -5819,7 +5819,6 @@ auspost
 author
 auto
 autos
-avianca
 aws
 axa
 azure
