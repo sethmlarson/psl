@@ -7718,7 +7718,10 @@ certmgr.org
 cx.ua
 discourse.group
 discourse.team
+cleverapps.cc
+*.services.clever-cloud.com
 cleverapps.io
+cleverapps.tech
 clerk.app
 clerkstage.app
 *.lcl.dev
@@ -9047,6 +9050,7 @@ noop.app
 *.database.run
 *.migration.run
 noticeable.news
+notion.site
 dnsking.ch
 mypi.co
 n4t.co
@@ -9163,6 +9167,7 @@ stage.nodeart.io
 pcloud.host
 nyc.mn
 prvcy.page
+observablehq.cloud
 static.observableusercontent.com
 cya.gg
 omg.lol
@@ -9451,6 +9456,7 @@ magnet.page
 biz.ua
 co.ua
 pp.ua
+sheezy.games
 shiftcrypto.dev
 shiftcrypto.io
 shiftedit.io
@@ -9667,6 +9673,8 @@ upli.io
 urown.cloud
 dnsupdate.info
 lib.de.us
+express.val.run
+web.val.run
 2038.io
 vercel.app
 vercel.dev
@@ -9689,6 +9697,7 @@ wedeploy.io
 wedeploy.me
 wedeploy.sh
 remotewd.com
+box.ca
 pages.wiardweb.com
 wmflabs.org
 toolforge.org
@@ -9736,6 +9745,7 @@ noho.st
 za.net
 za.org
 zap.cloud
+zeabur.app
 bss.design
 basicserver.io
 virtualserver.io
