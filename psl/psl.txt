@@ -8263,6 +8263,8 @@ us-1.evennode.com
 us-2.evennode.com
 us-3.evennode.com
 us-4.evennode.com
+expo.app
+staging.expo.app
 twmail.cc
 twmail.net
 twmail.org
@@ -8576,6 +8578,7 @@ london.cloudapps.digital
 pymnt.uk
 ro.im
 goip.de
+*.hosted.app
 *.run.app
 web.app
 *.0emm.com
