@@ -8713,6 +8713,7 @@ edu.scot
 sch.so
 ie.ua
 hostyhosting.io
+hypernode.io
 xn--hkkinen-5wa.fi
 *.moonscale.io
 moonscale.net
@@ -9707,6 +9708,11 @@ wmcloud.org
 wmflabs.org
 panel.gg
 daemon.panel.gg
+wixsite.com
+wixstudio.com
+editorx.io
+wixstudio.io
+wix.run
 messwithdns.com
 woltlab-demo.com
 myforum.community
@@ -9719,10 +9725,6 @@ raffleentry.org.uk
 weeklylottery.org.uk
 wpenginepowered.com
 js.wpenginepowered.com
-wixsite.com
-editorx.io
-wixstudio.io
-wix.run
 half.host
 xnbay.com
 u2.xnbay.com
