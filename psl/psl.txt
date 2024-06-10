@@ -7746,6 +7746,11 @@ trycloudflare.com
 pages.dev
 r2.dev
 workers.dev
+cdn.cloudflareanycast.net
+cdn.cloudflarecn.net
+cdn.cloudflareglobal.net
+cloudflare.net
+cdn.cloudflare.net
 cust.cloudscale.ch
 objects.lpg.cloudscale.ch
 objects.rma.cloudscale.ch
