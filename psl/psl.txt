@@ -6379,7 +6379,6 @@ mtr
 music
 nab
 nagoya
-natura
 navy
 nba
 nec
@@ -8191,6 +8190,11 @@ e4.cz
 easypanel.app
 easypanel.host
 *.ewp.live
+twmail.cc
+twmail.net
+twmail.org
+mymailer.com.tw
+url.tw
 at.emf.camp
 rt.ht
 elementor.cloud
@@ -8268,13 +8272,10 @@ us-1.evennode.com
 us-2.evennode.com
 us-3.evennode.com
 us-4.evennode.com
+relay.evervault.app
+relay.evervault.dev
 expo.app
 staging.expo.app
-twmail.cc
-twmail.net
-twmail.org
-mymailer.com.tw
-url.tw
 onfabrica.com
 ru.net
 adygeya.ru
@@ -8694,6 +8695,7 @@ hasura-app.io
 pages.it.hs-heilbronn.de
 helioho.st
 heliohost.us
+heiyu.space
 hepforge.org
 herokuapp.com
 herokussl.com
@@ -8937,12 +8939,15 @@ barsy.club
 barsycenter.com
 barsyonline.com
 barsy.de
+barsy.dev
 barsy.eu
+barsy.gr
 barsy.in
 barsy.info
 barsy.io
 barsy.me
 barsy.menu
+barsyonline.menu
 barsy.mobi
 barsy.net
 barsy.online
@@ -8950,8 +8955,11 @@ barsy.org
 barsy.pro
 barsy.pub
 barsy.ro
+barsy.rs
 barsy.shop
+barsyonline.shop
 barsy.site
+barsy.store
 barsy.support
 barsy.uk
 barsy.co.uk
@@ -9229,6 +9237,7 @@ pagexl.com
 *.paywhirl.com
 *.xmit.co
 xmit.dev
+madethis.site
 srv.us
 gh.srv.us
 gl.srv.us
@@ -9465,6 +9474,7 @@ magnet.page
 biz.ua
 co.ua
 pp.ua
+as.sh.cn
 sheezy.games
 shiftcrypto.dev
 shiftcrypto.io
@@ -9501,6 +9511,7 @@ streamlit.app
 streamlitapp.com
 try-snowplow.com
 srht.site
+ind.mom
 w-corp-staticblitz.com
 w-credentialless-staticblitz.com
 w-staticblitz.com
@@ -9516,6 +9527,8 @@ static.land
 dev.static.land
 sites.static.land
 storebase.store
+strapiapp.com
+media.strapiapp.com
 vps-host.net
 atl.jelastic.vps-host.net
 njs.jelastic.vps-host.net
