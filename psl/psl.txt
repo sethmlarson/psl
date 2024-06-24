@@ -8582,7 +8582,6 @@ graphic.design
 cloudapps.digital
 london.cloudapps.digital
 pymnt.uk
-ro.im
 goip.de
 blogspot.ae
 blogspot.al
@@ -8968,7 +8967,6 @@ barsyonline.co.uk
 mayfirst.info
 mayfirst.org
 hb.cldmail.ru
-cn.vu
 mazeplay.com
 mcpe.me
 mcdir.me
@@ -9037,6 +9035,7 @@ yali.mythic-beasts.com
 cust.retrosnub.co.uk
 ui.nabu.casa
 cloud.nospamproxy.com
+netfy.app
 netlify.app
 4u.com
 ngo.us
@@ -9184,6 +9183,7 @@ stage.nodeart.io
 pcloud.host
 nyc.mn
 prvcy.page
+obl.ong
 observablehq.cloud
 static.observableusercontent.com
 cya.gg
@@ -9420,6 +9420,14 @@ sakura.tv
 *.dev-builder.code.com
 *.stg-builder.code.com
 *.001.test.code-builder-stg.platform.salesforce.com
+*.d.crm.dev
+*.w.crm.dev
+*.wa.crm.dev
+*.wb.crm.dev
+*.wc.crm.dev
+*.wd.crm.dev
+*.we.crm.dev
+*.wf.crm.dev
 sandcats.io
 logoip.com
 logoip.de
@@ -9714,6 +9722,8 @@ bookonline.app
 hotelwithflight.com
 reserve-online.com
 reserve-online.net
+wp2.host
+wpsquared.site
 *.wadl.top
 wedeploy.io
 wedeploy.me
