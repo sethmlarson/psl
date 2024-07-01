@@ -7808,7 +7808,6 @@ dynamic-dns.info
 feste-ip.net
 knx-server.net
 static-access.net
-*.cprapid.com
 realm.cz
 on.crisp.email
 *.cryptonomic.net
@@ -7866,6 +7865,7 @@ shop.th
 drayddns.com
 shoparena.pl
 dreamhosters.com
+durumis.com
 mydrobo.com
 drud.io
 drud.us
@@ -9263,9 +9263,6 @@ us.platform.sh
 platter-app.com
 platter-app.dev
 platterp.us
-pleskns.com
-pdns.page
-plesk.page
 pley.games
 dyn53.io
 onporter.run
@@ -9291,8 +9288,9 @@ qbuser.com
 cloudsite.builders
 myradweb.net
 servername.us
+myrdbx.io
+site.rb-hosting.io
 instances.spawn.cc
-instantcloud.cn
 ras.ru
 qa2.com
 qcx.io
@@ -9722,7 +9720,11 @@ bookonline.app
 hotelwithflight.com
 reserve-online.com
 reserve-online.net
+cprapid.com
+pleskns.com
 wp2.host
+pdns.page
+plesk.page
 wpsquared.site
 *.wadl.top
 wedeploy.io
