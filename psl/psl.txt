@@ -7808,6 +7808,7 @@ dynamic-dns.info
 feste-ip.net
 knx-server.net
 static-access.net
+craft.me
 realm.cz
 on.crisp.email
 *.cryptonomic.net
@@ -7817,6 +7818,7 @@ curv.dev
 *.oci.customer-oci.com
 *.ocp.customer-oci.com
 *.ocs.customer-oci.com
+cfolks.pl
 cyclic.app
 cyclic.cloud
 cyclic-app.com
@@ -8691,6 +8693,12 @@ hs.zone
 hashbang.sh
 hasura.app
 hasura-app.io
+hatenablog.com
+hatenadiary.com
+hateblo.jp
+hatenablog.jp
+hatenadiary.jp
+hatenadiary.org
 pages.it.hs-heilbronn.de
 helioho.st
 heliohost.us
@@ -9306,7 +9314,6 @@ vapor.cloud
 vaporcloud.io
 rackmaze.com
 rackmaze.net
-g.vbrplsbx.io
 *.on-rancher.cloud
 *.on-k3s.io
 *.on-rio.io
