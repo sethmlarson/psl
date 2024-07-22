@@ -9499,6 +9499,7 @@ seidat.net
 sellfy.store
 senseering.net
 minisite.ms
+servebolt.cloud
 magnet.page
 biz.ua
 co.ua
@@ -9609,7 +9610,6 @@ temp-dns.com
 supabase.co
 supabase.in
 supabase.net
-su.paba.se
 *.sensiosite.cloud
 *.s5y.io
 syncloud.it
@@ -9641,6 +9641,8 @@ gdansk.pl
 gdynia.pl
 med.pl
 sopot.pl
+p.tawk.email
+p.tawkto.email
 site.tb-hosting.com
 edugit.io
 s3.teckids.org
