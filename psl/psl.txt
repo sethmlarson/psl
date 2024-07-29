@@ -6879,7 +6879,6 @@ ltd.ua
 aaa.vodka
 a2hosted.com
 cpserver.com
-graphox.us
 *.devcdnaccesso.com
 *.on-acorn.io
 activetrail.biz
@@ -7636,7 +7635,6 @@ onavstack.net
 *.advisor.ws
 ecommerce-shop.pl
 b-data.io
-backplaneapp.io
 balena-devices.com
 rs.ba
 *.banzai.cloud
@@ -7725,7 +7723,6 @@ aus.basketball
 nz.basketball
 radio.am
 radio.fm
-c.la
 certmgr.org
 cx.ua
 discourse.group
@@ -7749,8 +7746,6 @@ wpdevcloud.com
 cloudaccess.host
 freesite.host
 cloudaccess.net
-cloudcontrolapp.com
-cloudcontrolled.com
 *.cloudera.site
 cf-ipfs.com
 cloudflare-ipfs.com
@@ -7832,10 +7827,6 @@ curv.dev
 *.ocp.customer-oci.com
 *.ocs.customer-oci.com
 cfolks.pl
-cyclic.app
-cyclic.cloud
-cyclic-app.com
-cyclic.co.in
 cyon.link
 cyon.site
 platform0.app
@@ -8398,16 +8389,9 @@ hosp.uk
 mydobiss.com
 fh-muenster.io
 filegear.me
-filegear-au.me
-filegear-de.me
-filegear-gb.me
-filegear-ie.me
-filegear-jp.me
-filegear-sg.me
 firebaseapp.com
 fireweb.app
 flap.id
-onflashdrive.app
 fldrv.com
 flutterflow.app
 fly.dev
@@ -8750,8 +8734,6 @@ moonscale.net
 iki.fi
 ibxos.it
 iliadboxos.it
-impertrix.com
-impertrixcdn.com
 smushcdn.com
 wphostedmail.com
 wpmucdn.com
@@ -9036,10 +9018,8 @@ trafficmanager.net
 blob.core.windows.net
 servicebus.windows.net
 csx.cc
-mintere.site
 forte.id
 modx.dev
-mozilla-iot.org
 bmoattachments.org
 net.ru
 org.ru
@@ -9204,13 +9184,11 @@ golffan.us
 noip.us
 pointto.us
 stage.nodeart.io
-pcloud.host
 nyc.mn
 prvcy.page
 obl.ong
 observablehq.cloud
 static.observableusercontent.com
-cya.gg
 omg.lol
 cloudycluster.net
 omniwe.site
@@ -9233,7 +9211,6 @@ service.one
 simplesite.pl
 123paginaweb.pt
 123minsida.se
-nid.io
 is-cool.dev
 is-not-a.dev
 localplayer.dev
@@ -9256,7 +9233,6 @@ own.pm
 ox.rs
 oy.lc
 pgfog.com
-pagefrontapp.com
 pagexl.com
 *.paywhirl.com
 *.xmit.co
@@ -9506,8 +9482,6 @@ co.ua
 pp.ua
 as.sh.cn
 sheezy.games
-shiftcrypto.dev
-shiftcrypto.io
 shiftedit.io
 myshopblocks.com
 myshopify.com
