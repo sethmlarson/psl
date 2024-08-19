@@ -8781,6 +8781,7 @@ iopsys.se
 ipifony.net
 ir.md
 is-a.dev
+is-a-good.dev
 iservschule.de
 mein-iserv.de
 schulplattform.de
@@ -8918,7 +8919,6 @@ we.bs
 filegear-sg.me
 ggff.net
 *.user.localcert.dev
-localzone.xyz
 loginline.app
 loginline.dev
 loginline.io
