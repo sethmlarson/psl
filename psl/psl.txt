@@ -7663,7 +7663,6 @@ beagleboard.io
 pages.gay
 betainabox.com
 bnr.la
-bip.sh
 bitbucket.io
 blackbaudcdn.net
 of.je
@@ -8185,7 +8184,6 @@ freeddns.org
 mywire.org
 webredirect.org
 myddns.rocks
-blogsite.xyz
 dynv6.net
 e4.cz
 easypanel.app
@@ -8969,6 +8967,10 @@ barsyonline.co.uk
 hb.cldmail.ru
 mayfirst.info
 mayfirst.org
+matlab.cloud
+modelscape.com
+mwcloudnonprod.com
+polyspace.com
 mazeplay.com
 mcdir.me
 mcdir.ru
@@ -9013,7 +9015,10 @@ cloudapp.net
 trafficmanager.net
 blob.core.windows.net
 servicebus.windows.net
+routingthecloud.com
 sn.mynetname.net
+routingthecloud.net
+routingthecloud.org
 csx.cc
 forte.id
 modx.dev
@@ -9308,6 +9313,7 @@ site.rb-hosting.io
 *.on-k3s.io
 *.on-rio.io
 ravpage.co.il
+readthedocs-hosted.com
 readthedocs.io
 rhcloud.com
 instances.spawn.cc
@@ -9350,8 +9356,6 @@ repl.run
 resindevice.io
 devices.resinstaging.io
 hzc.io
-wellbeingzone.eu
-wellbeingzone.co.uk
 adimo.co.uk
 itcouldbewor.se
 aus.basketball
@@ -9735,7 +9739,7 @@ pages.wiardweb.com
 toolforge.org
 wmcloud.org
 wmflabs.org
-*.wdh.app
+wdh.app
 panel.gg
 daemon.panel.gg
 wixsite.com
