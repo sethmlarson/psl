@@ -7688,7 +7688,6 @@ uk0.bigv.io
 dh.bytemark.co.uk
 vm.bytemark.co.uk
 cafjs.com
-mycd.eu
 canva-apps.cn
 *.my.canvasite.cn
 canva-apps.com
@@ -8670,6 +8669,11 @@ conf.se
 xn--hkkinen-5wa.fi
 hs.run
 hs.zone
+wdh.app
+preview.wdh.app
+hrsn.dev
+t.hrsn.dev
+t.hrsn.net
 hashbang.sh
 hasura.app
 hasura-app.io
@@ -8868,7 +8872,6 @@ jouwweb.site
 js.org
 kaas.gg
 khplay.nl
-ktistory.com
 kapsi.fi
 ezproxy.kuleuven.be
 kuleuven.cloud
@@ -9575,8 +9578,6 @@ temp-dns.com
 supabase.co
 supabase.in
 supabase.net
-*.sensiosite.cloud
-*.s5y.io
 syncloud.it
 dscloud.biz
 direct.quickconnect.cn
@@ -9727,9 +9728,6 @@ pages.wiardweb.com
 toolforge.org
 wmcloud.org
 wmflabs.org
-wdh.app
-preview.wdh.app
-t.hrsn.net
 panel.gg
 daemon.panel.gg
 wixsite.com
