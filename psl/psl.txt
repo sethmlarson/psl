@@ -5992,7 +5992,6 @@ cruises
 cuisinella
 cymru
 cyou
-dabur
 dad
 dance
 data
@@ -7725,7 +7724,6 @@ se.net
 uk.net
 ae.org
 com.se
-certmgr.org
 cx.ua
 discourse.group
 discourse.team
@@ -7828,8 +7826,6 @@ co.dk
 firm.dk
 reg.dk
 store.dk
-daplie.me
-localhost.daplie.me
 dyndns.dappnode.io
 builtwithdark.com
 darklang.io
@@ -8716,6 +8712,8 @@ ngo.ng
 plc.ng
 ie.ua
 hostyhosting.io
+hf.space
+static.hf.space
 hypernode.io
 iobb.net
 co.cz
@@ -9012,7 +9010,6 @@ sn.mynetname.net
 routingthecloud.net
 routingthecloud.org
 csx.cc
-forte.id
 modx.dev
 bmoattachments.org
 net.ru
@@ -9257,7 +9254,6 @@ platter-app.com
 platter-app.dev
 platterp.us
 pley.games
-dyn53.io
 onporter.run
 co.bn
 postman-echo.com
@@ -9482,6 +9478,7 @@ shiftedit.io
 myshopblocks.com
 myshopify.com
 shopitsite.com
+shopware.shop
 shopware.store
 mo-siemens.io
 1kapp.com
@@ -9655,8 +9652,8 @@ webspace.rocks
 lima.zone
 *.transurl.be
 *.transurl.eu
-*.transurl.nl
 site.transip.me
+*.transurl.nl
 tuxfamily.org
 dd-dns.de
 dray-dns.de
