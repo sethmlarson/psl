@@ -389,6 +389,7 @@ ato.br
 b.br
 barueri.br
 belem.br
+bet.br
 bhz.br
 bib.br
 bio.br
@@ -475,6 +476,7 @@ joinville.br
 jor.br
 jus.br
 leg.br
+leilao.br
 lel.br
 log.br
 londrina.br
@@ -9010,6 +9012,12 @@ sn.mynetname.net
 routingthecloud.net
 routingthecloud.org
 csx.cc
+mydbserver.com
+webspaceconfig.de
+mittwald.info
+mittwaldserver.info
+typo3server.info
+project.space
 modx.dev
 bmoattachments.org
 net.ru
@@ -9487,9 +9495,6 @@ applinzi.com
 sinaapp.com
 vipsinaapp.com
 siteleaf.net
-bounty-full.com
-alpha.bounty-full.com
-beta.bounty-full.com
 small-web.org
 aeroport.fr
 avocat.fr
