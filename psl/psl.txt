@@ -609,8 +609,6 @@ go.ci
 asso.ci
 xn--aroport-bya.ci
 int.ci
-presse.ci
-md.ci
 gouv.ci
 *.ck
 !www.ck
@@ -697,7 +695,6 @@ cu
 com.cu
 edu.cu
 gob.cu
-gov.cu
 inf.cu
 nat.cu
 net.cu
@@ -1099,7 +1096,14 @@ info
 int
 eu.int
 io
+co.io
 com.io
+edu.io
+gov.io
+mil.io
+net.io
+nom.io
+org.io
 iq
 gov.iq
 edu.iq
@@ -7749,6 +7753,7 @@ cleverapps.tech
 clickrising.net
 cloudns.asia
 cloudns.be
+cloud-ip.biz
 cloudns.biz
 cloudns.cc
 cloudns.ch
@@ -7763,6 +7768,7 @@ dns-cloud.net
 dns-dynamic.net
 cloudns.nz
 cloudns.org
+ip-dynamic.org
 cloudns.ph
 cloudns.pro
 cloudns.pw
@@ -8668,8 +8674,6 @@ caa.li
 ua.rs
 conf.se
 xn--hkkinen-5wa.fi
-hs.run
-hs.zone
 wdh.app
 hrsn.dev
 hashbang.sh
