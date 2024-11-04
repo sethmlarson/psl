@@ -163,6 +163,7 @@ senasa.ar
 tur.ar
 arpa
 e164.arpa
+home.arpa
 in-addr.arpa
 ip6.arpa
 iris.arpa
@@ -7760,10 +7761,12 @@ cloudns.ch
 cloudns.cl
 cloudns.club
 dnsabr.com
+ip-ddns.com
 cloudns.cx
 cloudns.eu
 cloudns.in
 cloudns.info
+ddns-ip.net
 dns-cloud.net
 dns-dynamic.net
 cloudns.nz
@@ -8665,6 +8668,7 @@ pymnt.uk
 cloudapps.digital
 london.cloudapps.digital
 gov.nl
+grafana-dev.net
 grayjayleagues.com
 xn--gnstigbestellen-zvb.de
 xn--gnstigliefern-wob.de
@@ -9613,6 +9617,7 @@ gdansk.pl
 gdynia.pl
 med.pl
 sopot.pl
+taveusercontent.com
 p.tawk.email
 p.tawkto.email
 site.tb-hosting.com
