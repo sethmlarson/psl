@@ -7885,7 +7885,6 @@ discordsays.com
 discordsez.com
 jozi.biz
 dnshome.de
-bci.dnstrace.pro
 online.th
 shop.th
 drayddns.com
@@ -8198,8 +8197,6 @@ e4.cz
 easypanel.app
 easypanel.host
 *.ewp.live
-onred.one
-staging.onred.one
 twmail.cc
 twmail.net
 twmail.org
@@ -8678,7 +8675,6 @@ caa.li
 ua.rs
 conf.se
 xn--hkkinen-5wa.fi
-wdh.app
 hrsn.dev
 hashbang.sh
 hasura.app
@@ -9738,6 +9734,7 @@ pages.wiardweb.com
 toolforge.org
 wmcloud.org
 wmflabs.org
+wdh.app
 panel.gg
 daemon.panel.gg
 wixsite.com
