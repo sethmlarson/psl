@@ -8386,7 +8386,7 @@ framer.media
 framer.photos
 framer.website
 framer.wiki
-0e.vc
+*.0e.vc
 freebox-os.com
 freeboxos.com
 fbx-os.fr
@@ -9039,6 +9039,7 @@ yali.mythic-beasts.com
 cust.retrosnub.co.uk
 ui.nabu.casa
 cloud.nospamproxy.com
+o365.cloud.nospamproxy.com
 netfy.app
 netlify.app
 4u.com
@@ -9695,7 +9696,6 @@ sch.wf
 org.yt
 rs.ba
 bielsko.pl
-upli.io
 urown.cloud
 dnsupdate.info
 us.org
