@@ -8433,7 +8433,6 @@ gehirn.ne.jp
 usercontent.jp
 gentapps.com
 gentlentapis.com
-lab.ms
 cdn-edges.net
 gsj.bz
 githubusercontent.com
@@ -9085,8 +9084,6 @@ noticeable.news
 notion.site
 dnsking.ch
 mypi.co
-n4t.co
-001www.com
 myiphost.com
 forumz.info
 soundcast.me
@@ -9099,7 +9096,6 @@ vpndns.net
 dynserv.org
 now-dns.org
 x443.pw
-now-dns.top
 ntdll.top
 freeddns.us
 nsupdate.info
