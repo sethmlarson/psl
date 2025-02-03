@@ -7702,6 +7702,9 @@ bplaced.de
 square7.de
 bplaced.net
 square7.net
+brave.app
+*.s.brave.app
+brave.io
 *.s.brave.io
 shop.brendly.hr
 shop.brendly.rs
@@ -8846,6 +8849,8 @@ ggff.net
 *.user.localcert.dev
 localcert.net
 localhostcert.net
+localtonet.com
+*.localto.net
 lodz.pl
 pabianice.pl
 plock.pl
@@ -9633,6 +9638,7 @@ it.com
 unison-services.cloud
 virtual-user.de
 virtualuser.de
+obj.ag
 name.pm
 sch.tf
 biz.wf
