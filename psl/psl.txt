@@ -6929,6 +6929,7 @@ edgesuite-staging.net
 barsy.ca
 *.compute.estate
 *.alces.network
+alibabacloudcs.com
 kasserver.com
 altervista.org
 alwaysdata.net
@@ -8820,6 +8821,7 @@ koobin.events
 webthings.io
 krellian.net
 oya.to
+laravel.cloud
 git-repos.de
 lcube-server.de
 svn-repos.de
