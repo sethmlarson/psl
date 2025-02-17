@@ -7712,6 +7712,8 @@ shop.brendly.rs
 browsersafetymark.io
 radio.am
 radio.fm
+cdn.bubble.io
+bubbleapps.io
 uk0.bigv.io
 dh.bytemark.co.uk
 vm.bytemark.co.uk
