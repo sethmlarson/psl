@@ -5507,6 +5507,7 @@ co.ve
 com.ve
 e12.ve
 edu.ve
+emprende.ve
 firm.ve
 gob.ve
 gov.ve
@@ -6254,7 +6255,6 @@ juniper
 kaufen
 kddi
 kerryhotels
-kerrylogistics
 kerryproperties
 kfh
 kia
@@ -6304,7 +6304,6 @@ limited
 limo
 lincoln
 link
-lipsy
 live
 living
 llc
@@ -7693,6 +7692,7 @@ bnr.la
 bitbucket.io
 blackbaudcdn.net
 of.je
+square.site
 bluebite.io
 boomla.net
 boutir.com
@@ -9681,6 +9681,7 @@ pleskns.com
 wp2.host
 pdns.page
 plesk.page
+cpanel.site
 wpsquared.site
 *.wadl.top
 remotewd.com
@@ -9728,8 +9729,10 @@ za.net
 za.org
 zap.cloud
 zeabur.app
+*.zerops.app
 bss.design
 basicserver.io
 virtualserver.io
 enterprisecloud.nu
+zone.id
 // ===END PRIVATE DOMAINS===
