@@ -3406,11 +3406,15 @@ rep.kp
 tra.kp
 kr
 ac.kr
+ai.kr
 co.kr
 es.kr
 go.kr
 hs.kr
+io.kr
+it.kr
 kg.kr
+me.kr
 mil.kr
 ms.kr
 ne.kr
@@ -8720,7 +8724,9 @@ apps-1and1.net
 websitebuilder.online
 app-ionos.space
 iopsys.se
+*.inbrowser.dev
 *.dweb.link
+*.inbrowser.link
 ipifony.net
 ir.md
 is-a-good.dev
@@ -9225,6 +9231,8 @@ httpbin.org
 prequalifyme.today
 xen.prgmr.com
 priv.at
+c01.kr
+eliv-dns.kr
 protonet.io
 sub.psl.hrsn.dev
 *.wc.psl.hrsn.dev
