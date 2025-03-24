@@ -7831,6 +7831,8 @@ csb.app
 preview.csb.app
 co.nl
 co.no
+devinapps.com
+staging.devinapps.com
 webhosting.be
 hosting-cluster.nl
 ctfcloud.net
@@ -7897,6 +7899,7 @@ you2.pl
 ondigitalocean.app
 *.digitaloceanspaces.com
 us.kg
+dpdns.org
 discordsays.com
 discordsez.com
 jozi.biz
@@ -9674,7 +9677,6 @@ vercel.dev
 vusercontent.net
 now.sh
 2038.io
-router.management
 v-info.info
 deus-canvas.com
 voorloper.cloud
