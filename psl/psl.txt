@@ -158,6 +158,7 @@ musica.ar
 mutual.ar
 net.ar
 org.ar
+seg.ar
 senasa.ar
 tur.ar
 arpa
@@ -6983,6 +6984,7 @@ auth.ap-southeast-1.amazoncognito.com
 auth.ap-southeast-2.amazoncognito.com
 auth.ap-southeast-3.amazoncognito.com
 auth.ap-southeast-4.amazoncognito.com
+auth.ap-southeast-5.amazoncognito.com
 auth.ca-central-1.amazoncognito.com
 auth.ca-west-1.amazoncognito.com
 auth.eu-central-1.amazoncognito.com
@@ -7001,6 +7003,7 @@ auth.us-east-1.amazoncognito.com
 auth-fips.us-east-1.amazoncognito.com
 auth.us-east-2.amazoncognito.com
 auth-fips.us-east-2.amazoncognito.com
+auth-fips.us-gov-east-1.amazoncognito.com
 auth-fips.us-gov-west-1.amazoncognito.com
 auth.us-west-1.amazoncognito.com
 auth-fips.us-west-1.amazoncognito.com
@@ -7833,11 +7836,12 @@ csb.app
 preview.csb.app
 co.nl
 co.no
-devinapps.com
-staging.devinapps.com
+*.devinapps.com
 webhosting.be
 hosting-cluster.nl
 ctfcloud.net
+convex.app
+convex.cloud
 convex.site
 ac.ru
 edu.ru
@@ -8400,6 +8404,7 @@ app.os.fedoraproject.org
 app.os.stg.fedoraproject.org
 mydobiss.com
 fh-muenster.io
+figma.site
 filegear.me
 firebaseapp.com
 fldrv.com
@@ -8410,6 +8415,7 @@ shw.io
 edgeapp.net
 forgeblocks.com
 id.forgerock.io
+e2b.app
 framer.ai
 framer.app
 framercanvas.com
@@ -9708,6 +9714,8 @@ toolforge.org
 wmcloud.org
 wmflabs.org
 wdh.app
+windsurf.app
+windsurf.build
 panel.gg
 daemon.panel.gg
 wixsite.com
