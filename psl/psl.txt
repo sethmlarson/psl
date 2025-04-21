@@ -8662,7 +8662,6 @@ gen.ng
 ltd.ng
 ngo.ng
 plc.ng
-ie.ua
 hostyhosting.io
 hf.space
 static.hf.space
