@@ -5853,7 +5853,6 @@ bcn
 beats
 beauty
 beer
-bentley
 berlin
 best
 bestbuy
@@ -7826,6 +7825,8 @@ cdn.cloudflareglobal.net
 cust.cloudscale.ch
 objects.lpg.cloudscale.ch
 objects.rma.cloudscale.ch
+lpg.objectstorage.ch
+rma.objectstorage.ch
 wnext.app
 cnpy.gdn
 *.otap.co
@@ -8234,6 +8235,7 @@ mytuleap.com
 tuleap-partners.com
 encr.app
 encoreapi.com
+lp.dev
 eu.encoway.cloud
 eu.org
 al.eu.org
@@ -8405,6 +8407,7 @@ app.os.stg.fedoraproject.org
 mydobiss.com
 fh-muenster.io
 figma.site
+preview.site
 filegear.me
 firebaseapp.com
 fldrv.com
@@ -8927,6 +8930,8 @@ barsy.support
 barsy.uk
 barsy.co.uk
 barsyonline.co.uk
+luyani.app
+luyani.net
 *.magentosite.cloud
 hb.cldmail.ru
 matlab.cloud
@@ -9243,6 +9248,9 @@ xen.prgmr.com
 priv.at
 c01.kr
 eliv-dns.kr
+mmv.kr
+vki.kr
+dev.project-study.com
 protonet.io
 sub.psl.hrsn.dev
 *.wc.psl.hrsn.dev
@@ -9678,7 +9686,7 @@ urown.cloud
 dnsupdate.info
 us.org
 v.ua
-express.val.run
+val.run
 web.val.run
 vercel.app
 v0.build
