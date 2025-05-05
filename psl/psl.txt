@@ -6279,7 +6279,6 @@ kyoto
 lacaixa
 lamborghini
 lamer
-lancaster
 land
 landrover
 lanxess
@@ -9180,6 +9179,7 @@ service.one
 simplesite.pl
 123paginaweb.pt
 123minsida.se
+onid.ca
 is-a-fullstack.dev
 is-cool.dev
 is-not-a.dev
